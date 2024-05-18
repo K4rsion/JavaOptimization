@@ -1,0 +1,17 @@
+1. gcc
+    Java 128x128 matrices:          0.015 seconds
+    Java 1024x1024 matrices:        2.786 seconds
+    C 128x128 matrices:             0.008000 seconds
+    C 1024x1024 matrices:           7.227000 seconds
+
+2. gcc -O3
+    Java 128x128 matrices:          0.016 seconds
+    Java 1024x1024 matrices:        2.858 seconds
+    C 128x128 matrices:             0.002000 seconds
+    C 1024x1024 matrices:           1.548000 seconds
+
+3. gcc -Ofast
+    Java 128x128 matrices:          0.0 seconds
+    Java 1024x1024 matrices:        2.859 seconds
+    C 128x128 matrices:             0.002000 seconds
+    C 1024x1024 matrices:           1.395000 seconds

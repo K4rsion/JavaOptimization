@@ -1,0 +1,27 @@
+Java bytecode представляет собой инструкции, которые выполняет виртуальная машина Java (JVM).
+Он состоит из байт-кодов, каждый из которых выполняет определенное действие.
+Вот примеры некоторых инструкций Java bytecode:
+
+1. aload: загрузка ссылки из массива локальных переменных.
+2. getfield: получение значения поля из объекта.
+3. invokevirtual: вызов метода у объекта.
+4. if_icmpeq: условный переход при равенстве двух целочисленных значений.
+5. return: возврат значения из метода.
+
+Каждая инструкция имеет свой собственный опкод (код операции), который представляет собой один байт,
+а некоторые инструкции могут иметь также аргументы, указывающие на дополнительные данные.
+
+Изменение в файле через Recaf:
+
+1. Компилируем:
+PS C:\Users\User\Desktop\Study\3 year\JavaOptimization\Task5\src\main\java>
+    C:\Users\User\.jdks\openjdk-18.0.2.1\bin\javac.exe .\ru\nsu\gurin\Main.java
+
+2. Запускаем Recaf:
+PS C:\Users\User\Desktop>
+    C:\Users\User\.jdks\openjdk-18.0.2.1\bin\java.exe -jar .\recaf-2.21.13-J8-jar-with-dependencies.jar
+
+3. Вносим изменения и СОХРАНЯЕМ!
+4. Запускаем программу:
+PS C:\Users\User\Desktop\Study\3 year\JavaOptimization\Task5\src\main\java>
+    C:\Users\User\.jdks\openjdk-18.0.2.1\bin\java.exe ru.nsu.gurin.Main

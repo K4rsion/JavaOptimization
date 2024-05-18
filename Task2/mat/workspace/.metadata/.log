@@ -1,0 +1,54 @@
+!SESSION 2024-02-26 11:44:05.163 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.mat.ui 1 0 2024-02-26 11:44:36.056
+!MESSAGE Detected compressed references, because with uncompressed 64-bit references the array at 0x711600108 would overlap the array at 0x7116000e0
+
+!ENTRY org.eclipse.mat.ui 1 0 2024-02-26 11:44:36.082
+!MESSAGE Wrote threads call stacks to C:\Users\User\Desktop\Study\3 year\JavaOptimization\Task2\src\main\java\dumpfile.threads
+
+!ENTRY org.eclipse.mat.ui 1 0 2024-02-26 11:44:36.174
+!MESSAGE Heap C:\Users\User\Desktop\Study\3 year\JavaOptimization\Task2\src\main\java\dumpfile.hprof contains 16 521 objects
+
+!ENTRY org.eclipse.mat.ui 1 0 2024-02-26 11:44:36.402
+!MESSAGE Removed 3 712 unreachable objects using 3 602 664 bytes
+!SESSION 2024-02-26 13:54:03.432 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.mat.ui 1 0 2024-02-26 13:54:54.301
+!MESSAGE Detected compressed references, because with uncompressed 64-bit references the array at 0x70dc00ea0 would overlap the array at 0x70dc00850
+
+!ENTRY org.eclipse.mat.ui 1 0 2024-02-26 13:54:54.332
+!MESSAGE Wrote threads call stacks to C:\Users\User\Desktop\Study\3 year\JavaOptimization\Task2\src\main\java\java_pid15236.threads
+
+!ENTRY org.eclipse.mat.ui 1 0 2024-02-26 13:54:54.451
+!MESSAGE Heap C:\Users\User\Desktop\Study\3 year\JavaOptimization\Task2\src\main\java\java_pid15236.hprof contains 12 910 objects
+
+!ENTRY org.eclipse.mat.ui 1 0 2024-02-26 13:54:54.674
+!MESSAGE Removed 121 unreachable objects using 2 800 bytes
+!SESSION 2024-02-28 09:15:20.777 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.mat.ui 1 0 2024-02-28 09:15:44.379
+!MESSAGE Detected compressed references, because with uncompressed 64-bit references the array at 0x711600108 would overlap the array at 0x7116000e0
+
+!ENTRY org.eclipse.mat.ui 1 0 2024-02-28 09:15:44.405
+!MESSAGE Wrote threads call stacks to C:\Users\User\Desktop\Study\3 year\JavaOptimization\Task2\src\main\java\dumpfile.threads
+
+!ENTRY org.eclipse.mat.ui 1 0 2024-02-28 09:15:44.558
+!MESSAGE Heap C:\Users\User\Desktop\Study\3 year\JavaOptimization\Task2\src\main\java\dumpfile.hprof contains 16 521 objects
+
+!ENTRY org.eclipse.mat.ui 1 0 2024-02-28 09:15:44.840
+!MESSAGE Removed 3 712 unreachable objects using 3 602 664 bytes
